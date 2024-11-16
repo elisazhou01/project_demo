@@ -1,9 +1,0 @@
-streamlit
-matplotlib
-plotly
-pandas
-appdirs
-yfinance
-riskfolio-lib
-numpy
-scipy
